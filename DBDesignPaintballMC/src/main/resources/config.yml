@@ -1,0 +1,7 @@
+username: root
+password: root
+serverName: localhost
+port: 3306
+dbName: PaintballGame
+
+
